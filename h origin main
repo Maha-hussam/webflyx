@@ -1,0 +1,60 @@
+[33mcommit b2223fb98155b828b974cb43ace897bbf0b0288c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Sun Feb 8 17:55:00 2026 +0200
+
+    G: add The Curious Case of Benjamin Button
+
+[33mcommit ce210af1752baf5881a5b3cfb6032b852f0d2e86[m
+Merge: 493df97 30e8fd5
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Sun Feb 8 14:26:23 2026 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 493df97a9c4e6e9b77eb9952b695618a2c5d360f[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Sun Feb 8 14:09:45 2026 +0200
+
+    E: update contents file
+
+[33mcommit 30e8fd5c990cdcb84afe2533d4257255c429115f[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Wed Feb 4 11:55:15 2026 +0200
+
+    D: add classics movies list
+
+[33mcommit cb95ea2b2ae5874563a5eccd359a815c6fced0fc[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Tue Feb 3 00:05:09 2026 +0200
+
+    C: add quotes
+
+[33mcommit fdbaddf6f9729e7a2c16377d751f13b694248147[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Mon Feb 2 23:51:29 2026 +0200
+
+    B: add titles
+
+[33mcommit db9c5d38adeaa169611a897df236eb160a3f6b3c[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Mon Feb 2 23:48:50 2026 +0200
+
+    B: add titles
+
+[33mcommit 4b2d13c40764a142459113eb26276e330caec95c[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Mon Feb 2 23:44:31 2026 +0200
+
+    B: add titles
+
+[33mcommit 08bd908a4378e689fbadb69d3f4286959d7ab07b[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Mon Feb 2 23:40:32 2026 +0200
+
+    Adding new file, that name is titles
+
+[33mcommit 11ab0a1b8be09c68047843c7eaa16f62eec3d104[m
+Author: Maha-hussam <mahadalaa99@gmail.com>
+Date:   Mon Feb 2 22:56:06 2026 +0200
+
+    A: add contents.md
